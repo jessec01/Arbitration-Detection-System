@@ -1,0 +1,23 @@
+current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
+/usr/bin/ruby extconf.rb
+checking for rb_enc_interned_str() in ruby.h... yes
+checking for rb_hash_new_capa() in ruby.h... yes
+checking for rb_hash_bulk_insert() in ruby.h... yes
+checking for strnlen() in string.h... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250526-25593-pwwpxd sitelibdir\=./.gem.20250526-25593-pwwpxd clean
+
+current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250526-25593-pwwpxd sitelibdir\=./.gem.20250526-25593-pwwpxd
+compiling parser.c
+linking shared-object json/ext/parser.so
+
+current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250526-25593-pwwpxd sitelibdir\=./.gem.20250526-25593-pwwpxd install
+/usr/bin/install -c -m 0755 parser.so ./.gem.20250526-25593-pwwpxd/json/ext
+
+current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250526-25593-pwwpxd sitelibdir\=./.gem.20250526-25593-pwwpxd clean
