@@ -1,0 +1,18 @@
+# Gemfile
+
+source 'https://rubygems.org'
+
+# Gemas principales de tu proyecto
+gem 'json' # Si trabajas con JSON
+gem 'httparty' # Para hacer peticiones HTTP
+gem 'bigdecimal' # Si necesitas aritmética de alta precisión
+
+# Si usas una base de datos, por ejemplo:
+
+# gem 'pg' # Para PostgreSQL
+
+# Gemas para desarrollo y pruebas (se instalan solo en esos entornos)
+group :development, :test do
+  gem 'rspec' # Si usas RSpec para pruebas
+  gem 'pry' # Una herramienta útil para depuración
+end
