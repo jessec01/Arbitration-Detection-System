@@ -6,7 +6,6 @@ source 'https://rubygems.org'
 gem 'json' # Si trabajas con JSON
 gem 'httparty' # Para hacer peticiones HTTP
 gem 'bigdecimal' # Si necesitas aritmética de alta precisión
-
 # Si usas una base de datos, por ejemplo:
 
 # gem 'pg' # Para PostgreSQL
