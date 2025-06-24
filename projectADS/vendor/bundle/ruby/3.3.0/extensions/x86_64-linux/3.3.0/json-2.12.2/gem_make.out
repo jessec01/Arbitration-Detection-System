@@ -8,16 +8,16 @@ checking for whether -std=c99 is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-pwwpxd sitelibdir\=./.gem.20250526-25593-pwwpxd clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-12e6ms sitelibdir\=./.gem.20250619-93228-12e6ms clean
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-pwwpxd sitelibdir\=./.gem.20250526-25593-pwwpxd
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-12e6ms sitelibdir\=./.gem.20250619-93228-12e6ms
 compiling parser.c
 linking shared-object json/ext/parser.so
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-pwwpxd sitelibdir\=./.gem.20250526-25593-pwwpxd install
-/usr/bin/install -c -m 0755 parser.so ./.gem.20250526-25593-pwwpxd/json/ext
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-12e6ms sitelibdir\=./.gem.20250619-93228-12e6ms install
+/usr/bin/install -c -m 0755 parser.so ./.gem.20250619-93228-12e6ms/json/ext
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-pwwpxd sitelibdir\=./.gem.20250526-25593-pwwpxd clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-12e6ms sitelibdir\=./.gem.20250619-93228-12e6ms clean

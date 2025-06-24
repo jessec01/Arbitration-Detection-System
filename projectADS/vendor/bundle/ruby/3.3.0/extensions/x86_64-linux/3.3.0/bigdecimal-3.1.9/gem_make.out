@@ -28,17 +28,17 @@ checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.9/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-uafn93 sitelibdir\=./.gem.20250526-25593-uafn93 clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-qgb8pf sitelibdir\=./.gem.20250619-93228-qgb8pf clean
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.9/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-uafn93 sitelibdir\=./.gem.20250526-25593-uafn93
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-qgb8pf sitelibdir\=./.gem.20250619-93228-qgb8pf
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.so
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.9/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-uafn93 sitelibdir\=./.gem.20250526-25593-uafn93 install
-/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250526-25593-uafn93
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-qgb8pf sitelibdir\=./.gem.20250619-93228-qgb8pf install
+/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250619-93228-qgb8pf
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/bigdecimal-3.1.9/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-uafn93 sitelibdir\=./.gem.20250526-25593-uafn93 clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-qgb8pf sitelibdir\=./.gem.20250619-93228-qgb8pf clean

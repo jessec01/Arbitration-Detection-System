@@ -5,6 +5,15 @@ require "rails/all"
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
+# config/application.rb
+
+
+
+
+# Load .env file in development and test environments
+if Rails.env.development? || Rails.env.test?
+  Dotenv::Rails.load
+end
 
 module ProjectAds
   class Application < Rails::Application

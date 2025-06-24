@@ -16,16 +16,16 @@ checking for ttyname_r()... yes
 creating Makefile
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/io-console-0.8.0/ext/io/console
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-oc7mh1 sitelibdir\=./.gem.20250526-25593-oc7mh1 clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-w0e61t sitelibdir\=./.gem.20250619-93228-w0e61t clean
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/io-console-0.8.0/ext/io/console
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-oc7mh1 sitelibdir\=./.gem.20250526-25593-oc7mh1
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-w0e61t sitelibdir\=./.gem.20250619-93228-w0e61t
 compiling console.c
 linking shared-object io/console.so
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/io-console-0.8.0/ext/io/console
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-oc7mh1 sitelibdir\=./.gem.20250526-25593-oc7mh1 install
-/usr/bin/install -c -m 0755 console.so ./.gem.20250526-25593-oc7mh1/io
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-w0e61t sitelibdir\=./.gem.20250619-93228-w0e61t install
+/usr/bin/install -c -m 0755 console.so ./.gem.20250619-93228-w0e61t/io
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/io-console-0.8.0/ext/io/console
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-oc7mh1 sitelibdir\=./.gem.20250526-25593-oc7mh1 clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-w0e61t sitelibdir\=./.gem.20250619-93228-w0e61t clean

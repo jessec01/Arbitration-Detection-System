@@ -3,17 +3,17 @@ current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectA
 creating Makefile
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-1m4wx8 sitelibdir\=./.gem.20250526-25593-1m4wx8 clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-hjkwlq sitelibdir\=./.gem.20250619-93228-hjkwlq clean
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-1m4wx8 sitelibdir\=./.gem.20250526-25593-1m4wx8
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-hjkwlq sitelibdir\=./.gem.20250619-93228-hjkwlq
 compiling debug.c
 compiling iseq_collector.c
 linking shared-object debug/debug.so
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-1m4wx8 sitelibdir\=./.gem.20250526-25593-1m4wx8 install
-/usr/bin/install -c -m 0755 debug.so ./.gem.20250526-25593-1m4wx8/debug
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-hjkwlq sitelibdir\=./.gem.20250619-93228-hjkwlq install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250619-93228-hjkwlq/debug
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/debug-1.10.0/ext/debug
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-1m4wx8 sitelibdir\=./.gem.20250526-25593-1m4wx8 clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-hjkwlq sitelibdir\=./.gem.20250619-93228-hjkwlq clean

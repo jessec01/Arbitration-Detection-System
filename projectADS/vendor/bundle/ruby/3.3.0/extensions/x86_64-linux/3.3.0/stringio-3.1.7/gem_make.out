@@ -4,16 +4,16 @@ checking for rb_io_mode_t in ruby/io.h... no
 creating Makefile
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.7/ext/stringio
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-8ndapa sitelibdir\=./.gem.20250526-25593-8ndapa clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-244amv sitelibdir\=./.gem.20250619-93228-244amv clean
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.7/ext/stringio
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-8ndapa sitelibdir\=./.gem.20250526-25593-8ndapa
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-244amv sitelibdir\=./.gem.20250619-93228-244amv
 compiling stringio.c
 linking shared-object stringio.so
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.7/ext/stringio
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-8ndapa sitelibdir\=./.gem.20250526-25593-8ndapa install
-/usr/bin/install -c -m 0755 stringio.so ./.gem.20250526-25593-8ndapa
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-244amv sitelibdir\=./.gem.20250619-93228-244amv install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20250619-93228-244amv
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.7/ext/stringio
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-8ndapa sitelibdir\=./.gem.20250526-25593-8ndapa clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-244amv sitelibdir\=./.gem.20250619-93228-244amv clean

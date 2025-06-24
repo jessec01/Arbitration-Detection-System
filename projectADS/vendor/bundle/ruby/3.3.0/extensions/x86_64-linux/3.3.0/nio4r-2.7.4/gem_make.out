@@ -13,10 +13,10 @@ checking for sys/resource.h... yes
 creating Makefile
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-loxiqu sitelibdir\=./.gem.20250526-25593-loxiqu clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-py07r3 sitelibdir\=./.gem.20250619-93228-py07r3 clean
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-loxiqu sitelibdir\=./.gem.20250526-25593-loxiqu
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-py07r3 sitelibdir\=./.gem.20250619-93228-py07r3
 compiling bytebuffer.c
 compiling monitor.c
 compiling nio4r_ext.c
@@ -46,8 +46,8 @@ selector.c:525:5: aviso: ignoring return value of ‘write’ declared with attr
 linking shared-object nio4r_ext.so
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-loxiqu sitelibdir\=./.gem.20250526-25593-loxiqu install
-/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20250526-25593-loxiqu
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-py07r3 sitelibdir\=./.gem.20250619-93228-py07r3 install
+/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20250619-93228-py07r3
 
 current directory: /home/jessec/Documentos/Arbitration-Detection-System/projectADS/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.4/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20250526-25593-loxiqu sitelibdir\=./.gem.20250526-25593-loxiqu clean
+make DESTDIR\= sitearchdir\=./.gem.20250619-93228-py07r3 sitelibdir\=./.gem.20250619-93228-py07r3 clean
